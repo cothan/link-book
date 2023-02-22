@@ -7,3 +7,4 @@
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/#the-rust-performance-book) - This book is aimed at intermediate and advanced Rust users. Beginner Rust users have more than enough to learn and these techniques are likely to be an unhelpful distraction to them.
 - [Self hosting in 2023](https://grifel.dev/decentralization/) - Rpi 4 Hosting at home
 - [Zero To Production In Rust](https://www.zero2prod.com/) - Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch. 
+- [Blessed](https://blessed.rs/crates) - An unofficial guide to the Rust ecosystem
