@@ -8,3 +8,4 @@
 - [Self hosting in 2023](https://grifel.dev/decentralization/) - Rpi 4 Hosting at home
 - [Zero To Production In Rust](https://www.zero2prod.com/) - Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch. 
 - [Blessed](https://blessed.rs/crates) - An unofficial guide to the Rust ecosystem
+- [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/) - Here are the mistakes I've seen which may make you fail at learning Rust. I hope this list will help you avoid them.
