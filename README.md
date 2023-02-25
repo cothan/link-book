@@ -11,3 +11,4 @@
 - [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/) - Here are the mistakes I've seen which may make you fail at learning Rust. I hope this list will help you avoid them.
 - [Using unwrap() in Rust is Okay](https://blog.burntsushi.net/unwrap/) - That section briefly described that, broadly speaking, using unwrap() is okay if it’s in test/example code or when panicking indicates a bug.
 - [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A collection of algorithm implemented in Rust
+- [The Most Important Optimizations to Apply in Your C++ Programs - Jan Bielak - CppCon 2022](https://www.youtube.com/watch?v=qCjEN5XRzHc) - A very impressive C++ optimization tricks
