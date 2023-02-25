@@ -10,3 +10,4 @@
 - [Blessed](https://blessed.rs/crates) - An unofficial guide to the Rust ecosystem
 - [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/) - Here are the mistakes I've seen which may make you fail at learning Rust. I hope this list will help you avoid them.
 - [Using unwrap() in Rust is Okay](https://blog.burntsushi.net/unwrap/) - That section briefly described that, broadly speaking, using unwrap() is okay if it’s in test/example code or when panicking indicates a bug.
+- [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A collection of algorithm implemented in Rust
