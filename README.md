@@ -12,3 +12,4 @@
 - [Using unwrap() in Rust is Okay](https://blog.burntsushi.net/unwrap/) - That section briefly described that, broadly speaking, using unwrap() is okay if it’s in test/example code or when panicking indicates a bug.
 - [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A collection of algorithm implemented in Rust
 - [The Most Important Optimizations to Apply in Your C++ Programs - Jan Bielak - CppCon 2022](https://www.youtube.com/watch?v=qCjEN5XRzHc) - A very impressive C++ optimization tricks
+- [A senior engineer's guide to the system design interview](https://interviewing.io/guides/system-design-interview) - Our primary audience is backend-leaning engineers who are interviewing for mid-level to senior-level roles. Whether you’re new to system design interviews or you’re a seasoned system design interviewer looking to refresh or hone your skills, this guide is for you.
