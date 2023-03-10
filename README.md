@@ -15,3 +15,4 @@
 - [A senior engineer's guide to the system design interview](https://interviewing.io/guides/system-design-interview) - Our primary audience is backend-leaning engineers who are interviewing for mid-level to senior-level roles. Whether you’re new to system design interviews or you’re a seasoned system design interviewer looking to refresh or hone your skills, this guide is for you.
 - [RoomGPT.io: Generate your dream room](https://www.roomgpt.io/dream) - Generate your dream room in seconds.
 - [Rustlings](https://github.com/rust-lang/rustlings) -  🦀 Small exercises to get you used to reading and writing Rust code! 
+- [Getting Past “Ampersand-Driven Development” in Rust](https://fiberplane.com/blog/getting-past-ampersand-driven-development-in-rust) - A little mental model for ownership and borrowing
