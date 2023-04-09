@@ -24,3 +24,4 @@
 - [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/) - Rust (with the help of pyo3) unlocks true native performance for everyday Python code, with minimal compromises.
 - [ Assembly code generated from Rust for parameter passing ](https://www.eventhelix.com/rust/rust-to-assembly-value-reference-box-rc-arc/) - Very interesting that Rust can generate AVX2 to improve performance
 - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors) - That is, error types should be located near to their unit of fallibility
+- [Can You Trust a Compiler to Optimize Your Code? ](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html) - The sort functions to perform SIMD vectorization in Rust is awesome. Chunk_exact is good
