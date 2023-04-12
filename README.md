@@ -25,3 +25,4 @@
 - [ Assembly code generated from Rust for parameter passing ](https://www.eventhelix.com/rust/rust-to-assembly-value-reference-box-rc-arc/) - Very interesting that Rust can generate AVX2 to improve performance
 - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors) - That is, error types should be located near to their unit of fallibility
 - [Can You Trust a Compiler to Optimize Your Code? ](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html) - The sort functions to perform SIMD vectorization in Rust is awesome. Chunk_exact is good
+- [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer) - I find this touch my heart. So I keep it here. 
