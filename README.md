@@ -26,3 +26,7 @@
 - [Modular Errors in Rust](https://sabrinajewson.org/blog/errors) - That is, error types should be located near to their unit of fallibility
 - [Can You Trust a Compiler to Optimize Your Code? ](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html) - The sort functions to perform SIMD vectorization in Rust is awesome. Chunk_exact is good
 - [MVP: The Most Valuable Programmer](https://arendjr.nl/2023/04/mvp-the-most-valuable-programmer) - I find this touch my heart. So I keep it here. 
+- [Build a web server with Rust and tokio - Part 0: a simple GET handler](https://blog.sylver.dev/build-a-web-server-with-rust-and-tokio-part-0-a-simple-get-handler) - Build a web server with Rust and tokio - Part 0: the simplest possible GET handler
+Welcome to this series of blog posts where we will be exploring how to 
+build a web server from scratch using the Rust programming language.
+We will be taking a hands-...
