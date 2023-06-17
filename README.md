@@ -32,3 +32,4 @@ build a web server from scratch using the Rust programming language.
 We will be taking a hands-...
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Written in Rust -- Application to comfortably monitor your network traffic 
 - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html) - Use Kani verification tool to verify s2n-rust
+- [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html) - How to write Rust better
