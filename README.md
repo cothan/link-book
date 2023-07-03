@@ -34,3 +34,4 @@ We will be taking a hands-...
 - [How s2n-quic uses Kani to inspire confidence](https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html) - Use Kani verification tool to verify s2n-rust
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html) - How to write Rust better
 - [ How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/) - Insights about Async in Rust
+- [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/) - Explanation of `mod` and `use` in Rust
