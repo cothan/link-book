@@ -35,3 +35,4 @@ We will be taking a hands-...
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html) - How to write Rust better
 - [ How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/) - Insights about Async in Rust
 - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/) - Explanation of `mod` and `use` in Rust
+- [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge) - Interesting guide to use Async in Python
