@@ -37,3 +37,4 @@ We will be taking a hands-...
 - [It's dangerous to go alone, `pub` `mod` `use` this.rs](https://www.schneems.com/2023/06/14/its-dangerous-to-go-alone-pub-mod-use-thisrs/) - Explanation of `mod` and `use` in Rust
 - [Running async code from sync in Python asyncio](https://death.andgravity.com/asyncio-bridge) - Interesting guide to use Async in Python
 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) - Interactive Map of Linux Kernel
+- [The State of Async Rust: Runtimes](https://corrode.dev/blog/async/) - The State of Async Rust: Runtimes
