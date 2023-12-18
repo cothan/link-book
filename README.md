@@ -39,3 +39,4 @@ We will be taking a hands-...
 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) - Interactive Map of Linux Kernel
 - [The State of Async Rust: Runtimes](https://corrode.dev/blog/async/) - The State of Async Rust: Runtimes
 - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/) - This tool is so great with Rust
+- [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/) - They mention Miri, I will read it later
