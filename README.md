@@ -40,3 +40,4 @@ We will be taking a hands-...
 - [The State of Async Rust: Runtimes](https://corrode.dev/blog/async/) - The State of Async Rust: Runtimes
 - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/) - This tool is so great with Rust
 - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/) - They mention Miri, I will read it later
+- [Rust By Practice](https://practice.rs/why-exercise.html) - Excercise Rust, wait for their async section
