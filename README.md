@@ -43,3 +43,4 @@ We will be taking a hands-...
 - [Rust By Practice](https://practice.rs/why-exercise.html) - Excercise Rust, wait for their async section
 - [Calling Rust FFI libraries from Go](https://blog.arcjet.com/calling-rust-ffi-libraries-from-go/) - Building and compiling a Rust FFI library so it can be executed from Go.
 - [Rust cheat sheet](https://cheats.rs/) - Very useful imo
+- [Why choose async/await over threads?](https://notgull.net/why-not-threads/) - A detail explanation why you should prefer async/await than thread
