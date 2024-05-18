@@ -45,3 +45,4 @@ We will be taking a hands-...
 - [Rust cheat sheet](https://cheats.rs/) - Very useful imo
 - [Why choose async/await over threads?](https://notgull.net/why-not-threads/) - A detail explanation why you should prefer async/await than thread
 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) - Linux tool to diagnosis performance problem 
+- [100 Exercises To Learn Rust](https://rust-exercises.com/) - To learn Rust
