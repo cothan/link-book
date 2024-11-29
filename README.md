@@ -48,3 +48,4 @@ We will be taking a hands-...
 - [100 Exercises To Learn Rust](https://rust-exercises.com/) - To learn Rust
 - [ARM64 Calling Convention Cheat Sheet](https://dede.dev/posts/ARM64-Calling-Convention-Cheat-Sheet/) - ARM64, also known as AArch64, is the 64-bit execution state introduced in the ARMv8 architecture. If you’re diving into ARM64` assembly, understanding the calling convention is crucial. It helps in ensuring interoperability between function calls, making your code more readable, maintainable, and efficient. Here’s a cheat sheet for the standard ARM64 calling convention:
 - [Effective Rust](https://effective-rust.com/title-page.html) - How to write Rust better
+- [Optimizing a Rust GPU matmul kernel](https://rust-gpu.github.io/blog/optimizing-matmul/) - Rust GPU for both CPU and GPU
